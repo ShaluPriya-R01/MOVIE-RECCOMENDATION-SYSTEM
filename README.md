@@ -1,6 +1,6 @@
 # Movie Recommendation System
   This project implements a movie recommendation system using cosine similarity based on movie metadata.
-  ![Alt text](path/to/your/image.png)
+  (https://github.com/ShaluPriya-R01/MOVIE-RECCOMENDATION-SYSTEM/blob/main/movie1.png)
 
 
 # Overview
