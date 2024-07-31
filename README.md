@@ -1,6 +1,6 @@
 # Movie Recommendation System
   This project implements a movie recommendation system using cosine similarity based on movie metadata.
-  ![Uploading Screenshot 2024-07-31 152849.png…]()
+  ![Alt text](path/to/your/image.png)
 
 
 # Overview
