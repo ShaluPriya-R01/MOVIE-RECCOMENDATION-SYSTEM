@@ -1,5 +1,7 @@
 # Movie Recommendation System
   This project implements a movie recommendation system using cosine similarity based on movie metadata.
+  ![Uploading Screenshot 2024-07-31 152849.png…]()
+
 
 # Overview
   - The movie recommendation system is designed to provide users with personalized movie recommendations based on their preferences and the similarity of movie features.
